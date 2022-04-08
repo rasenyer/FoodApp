@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_category">Category</string>
+    <string name="title_foods">Foods</string>
+    <string name="title_detail">Detail</string>
+    <string name="no_favorites">No Favorites</string>
+    <string name="watch_video">Watch video</string>
+    <string name="category">Category:\u0020</string>
+    <string name="area">Area:\u0020</string>
+    <string name="meal_saved_in_favorites">Meal saved in favorites</string>
+    <string name="meal_removed_from_favorites">Meal removed from favorites</string>
+    <string name="no_meal_found_with_that_name_try_another">No meal found with that name, try another</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="measure">Measure</string>
+    <string name="instruction">Instruction:</string>
+</resources>

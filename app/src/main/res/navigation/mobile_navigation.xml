@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.rasenyer.foodapp.ui.fragments.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.rasenyer.foodapp.ui.fragments.search.SearchFragment"
+        android:label="@string/title_search"
+        tools:layout="@layout/fragment_search"/>
+
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="com.rasenyer.foodapp.ui.fragments.favorite.FavoriteFragment"
+        android:label="@string/title_favorite"
+        tools:layout="@layout/fragment_favorite"/>
+
+    <fragment
+        android:id="@+id/navigation_category"
+        android:name="com.rasenyer.foodapp.ui.fragments.category.CategoryFragment"
+        android:label="@string/title_category"
+        tools:layout="@layout/fragment_category"/>
+
+</navigation>

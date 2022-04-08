@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/background.xml" value="0.197" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/font/font.xml" value="0.20277777777777778" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_food.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_category.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/item_category.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/item_favorite.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/item_food.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/layout/item_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FoodApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rasenyer.foodapp">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FoodApp">
+
+        <activity
+            android:name=".ui.activities.food.FoodActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.activities.main.MainActivity"
+            android:label="@string/title_foods"/>
+
+        <activity
+            android:name=".ui.activities.detail.DetailActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.activities.main.MainActivity"
+            android:label="@string/title_detail"/>
+
+        <activity
+            android:name=".ui.activities.main.MainActivity"
+            android:exported="true"
+            android:launchMode="singleInstance">
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+
+            </intent-filter>
+
+        </activity>
+
+    </application>
+
+</manifest>
