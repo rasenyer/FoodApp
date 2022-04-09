@@ -23,23 +23,23 @@ Recipe application that consumes an API with Retrofit and saves the user's favor
 <h2>Screenshots:</h2>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqFECqkTtlDVPpk_RhaLpVlmpwPGb01IvpLfpxll-S9GyWNflKf0JGX18ctruayi_1ZaPPSYBlwIWEhQ-gXqGCnyRBz4_7bvyEKqcF3BKxZrRgVjmcjXgAYtG2zXE7XzhjVkjTtLWQ2pirr1QCnmIGcA4y6n4p2cB1MpDrFzBvwudFB_uyFvUudf_X/s16000/1.png" width="250">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtImk_YRN8GraFPaUcGTU8kU_bt1lXE-tkJmLsmX1YuYNSb7ywdmURgAbJwfZQ4xJE91RZGKNqgTvXBW6iFkjrUy9RWbhZK2dlu1IkMra0Q-vufZ8D3OFGrh6-kp6H2NrvbVAXLkp9xo8QZ5_pNAUFE-NgiEsDbzfYoTGEIW13bq0MKJwcz1Bik6rZ/s16000/2.png" width="250">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyTb2K_ZAqONeuB4x-olHmDugoHUg7GOCLhkxtV2Kl9RqLaEN79AapuXNwbEeM_R7_MLInHzZcEzl9erg0UBdfx2mUgY-hlIfWLM2eBE_dnbxLphWsvPBXcMN_pqBjM1oXByTCBE45dxVu0e9C2MMVvuVXMVghia9LmNW-G6JMjDZTBgPNNv8skLA4/s16000/3.png" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFIi7qNDH9dkQ/feedshare-shrink_1280/0/1649522977633?e=2147483647&v=beta&t=6INkKLHqkQgEuQ6QHT-_jD6frOz6ylAp_WJk3EZ8_wU" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHdeVrIABNO0A/feedshare-shrink_1280/0/1649522975341?e=2147483647&v=beta&t=zkJvr6E7uKrfr-DCT89i8iBGmFYc58LbZkDqFk2ZFTU" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHybYw1YXZxVQ/feedshare-shrink_1280/0/1649522976436?e=2147483647&v=beta&t=HasWwtfkKvQIQUbAOPOTnjML4XCIO5p9PZZJtGJn9UI" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinev4QVVVAJm-cfW8IgMVGrVoEZQGj2PvXAG1zu-toNca7RsQJElweQBKC96Jsoc9abkjtN6a59ArDWyEOEIrVXQn_NTeKSwBbDpL7bXqXf8ePBHFlLEnrRAyvHOiPbDiKTH2adaADqOvkTOl-bhjuuksDhStM_UOSAoqCE13d_KszofVoPK4GU3TH/s16000/4.png" width="250">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTB6unjfdddDR6e89rDsiycArKSC4kZRsrWmhyMsW_Ne25kwYVE4pf9GFqMh7Ey2Qrq5RfJlLlTrMA6r8bXWbWHlY6PvNuszk1UQTLWcwDFZx1MEn-Akf48YPCIbO_SkaUkBoCV5pRelGMTQ_-u0oGF_rfChaCAJOiGwNOpPYUIwFgO590DbwXJjuP/s16000/5.png" width="250">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIc6ZPxj5Qo1wYUOQi8B6Cs6afD0OqRS9fDh0zRANqtCAsSyFXUn6O2-D2WgosUdZzNPL6AFgfyJ6Zrx65Q0YtohoWMZ-OGIIacgE7AICL7KI_GbpsrRf1TiRz1vuDquhvoocAJhkKfMOEyF2uKDX_9F8_Bxl2yTm3rcbloYaIUD8jBdaWdLEtT1IH/s16000/6.png" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFrIXivIXCWRg/feedshare-shrink_1280/0/1649522975396?e=2147483647&v=beta&t=u1BkwsezdY3MB50YCNaYexmR9ggDEn1BA8gYW2S485I" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFYBuU_292Pjg/feedshare-shrink_1280/0/1649522977439?e=2147483647&v=beta&t=D1x3QgeeR74is-XRLoSOyqb4hjMubw31KQG-2uYN30Y" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGyGW0sqQa-pA/feedshare-shrink_1280/0/1649522976014?e=2147483647&v=beta&t=tUzFGi52iT1m9Q0_LJ3eaQwe2vcOI7Jg4HWpMO658tU" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ5UM1iuWq4azmIpqt0jQCKKBffLnSH4XEli3mm7iAIXdJ4vaiWR4cIPHPWshyM1whjMDf-lXgoD1cRFCpucwHNQYUjXz5kkDFNa6b9D_x3xGrkXObcdQa5SkX-8H6Q2mHTgmQSbmws9kI09j-rAFfEu15xRAI1tzNyXQh-DUVeWV_jFZGSRJQRyM-/s16000/7.png" width="250">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVX2GIpR4IL06JSBcAoDEofxlkQnvZOy20VzcdmYp-EiWZlVtGu6oej3AB-Gn8QJQXgwGzDVAfmqo-2DYzFEIKeltfY4d5VKy7n8YSTYQhPMj31wOoWoJiQX_CbZ8kdVsM3OSQNwsLuXjixCC1VM2g6hpAtkZnGgU8P1wZ1_EhbF2MyXHKTLzbqY03/s16000/8.png" width="250">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0qMQ4RTR-2FjxOzi-MJOxu8YKpQPholD63GFAJGjI_hFkq2wj56PnXGko752_OIvms2inXp9DsFqiq3iWUFIi-MtBhJVgbKCXJ8N7KzirCFB4j-G-qjUuyOStMlNGjcvFRHxX1dU3n7cBRL25vTPwQL3UEoXjZtCqu4Bi4NisnUQOX84xoZgZbb4/s16000/9.png" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFzIVd7u17bnQ/feedshare-shrink_1280/0/1649522975702?e=2147483647&v=beta&t=mRv38ayOi1BOFyQSFj2GdVF9MICbDVQBLdhBByWpfgc" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH1KTxDsXhjeA/feedshare-shrink_1280/0/1649522976120?e=2147483647&v=beta&t=J52t7qLaYrOtnHpRyYS7KiMRk-PzZ34K3WUjNZRaC_I" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH7cHw5wLBG4Q/feedshare-shrink_1280/0/1649522974431?e=2147483647&v=beta&t=MiJYEOwdroVgrqWeQCtPWy4tYxOEys16DRofW1-D7OQ" width="250">
 </div>
