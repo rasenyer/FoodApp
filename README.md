@@ -1,7 +1,8 @@
 # FoodApp
 Recipe application that consumes an API with Retrofit and saves the user's favorite foods in a local database with Room.
 
-App on Google Play: https://play.google.com/store/apps/details?id=com.rasenyer.foodapp
+<h2>App on Google Play:</h2>
+https://play.google.com/store/apps/details?id=com.rasenyer.foodapp
 
 <h2>Used libraries:</h2>
 
